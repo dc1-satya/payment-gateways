@@ -1,0 +1,7 @@
+Google Pay PHP integration explanation
+https://stackoverflow.com/questions/55550850/google-pay-php-integration-explanation
+
+
+  I want to integrate Google payments with my online shop and I am looking for any examples how to do it with PHP. I have already used javascript one and it was pretty simple. I was wondering what happens when the payment is being processed, can it communicate with my server in order to save the data? As far as I know the client side implementation is only doing the payment, correct me if I am wrong. I hope you can share a link to documentation explaining it.
+
+  Google Pay doesn't process the payment, it facilitates the payment by working with a payment processor to securely negotiate a payment token. Is your payment processor listed on the following page? developers.google.com/pay/api 
