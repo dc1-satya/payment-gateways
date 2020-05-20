@@ -2,6 +2,14 @@ Digital Wallet
   A digital wallet also known as "e-Wallet" refers to an electronic device, online service, or software program that allows an one party to make electronic transactions with another party bartering digital currency units for goods and services.
   https://en.wikipedia.org/wiki/Digital_wallet
 
+
+Start using Google Pay today
+  https://pay.google.com/about/learn/
+
+API
+  https://developers.google.com/pay/api/
+
+
 Google Pay — The whats, hows and wheres
   https://medium.com/@rkakodker/google-pay-the-whats-hows-and-wheres-7aa764f6bd7a
   TODO: Document
@@ -9,6 +17,11 @@ Google Pay — The whats, hows and wheres
 How to use Google Pay
   https://www.theverge.com/2018/5/16/17358034/google-pay-how-to-mobile-payments-android-iphone
 
+What is Google Pay, and how do you use it?
+  https://www.digitaltrends.com/mobile/what-is-google-pay/
+
+Google Pay Help
+  https://support.google.com/pay/india/#topic=9781128
   
   Google Pay
   1 Google Pay is a digital wallet and online payment system
