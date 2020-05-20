@@ -26,3 +26,7 @@ How to use Google Pay
 
   WHERE CAN I USE GOOGLE PAY?
      you can use Google Pay just about anywhere you see a credit card terminal with these above symbols. 
+
+
+  IS GOOGLE PAY SECURE?
+  For those of you worrying about merchants having your credit card number when you tap to pay, here’s how Google protects your info: a temporary, encrypted number is shared with merchants, never the actual number.

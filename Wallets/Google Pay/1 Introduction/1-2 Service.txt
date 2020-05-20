@@ -1,0 +1,12 @@
+  Google Pay uses near-field communication (NFC) to transmit card information facilitating funds transfer to the retailer.
+  https://en.wikipedia.org/wiki/Google_Pay
+
+  Near-field communication
+    Near-field communication (NFC) is a set of communication protocols for communication between two electronic devices over a distance of 4 cm (1​1⁄2 in) or less.
+    https://en.wikipedia.org/wiki/Near-field_communication
+
+  NFC stands for “Near Field Communication” and, as the name implies, it enables short-range communication between compatible devices.
+  https://www.androidauthority.com/what-is-nfc-270730/
+
+  The service lets Android devices wirelessly communicate with point of sale systems using a near field communication (NFC) antenna
+  
