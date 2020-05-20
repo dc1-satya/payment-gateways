@@ -1,0 +1,8 @@
+How to implement Apple Pay in React Native Apps
+https://enappd.com/blog/implement-apple-pay-in-react-native-apps/93/
+
+
+https://developers.google.com/pay
+
+https://developers.google.com/pay/api/android/overview
+
