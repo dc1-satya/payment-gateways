@@ -1,0 +1,28 @@
+Digital Wallet
+  A digital wallet also known as "e-Wallet" refers to an electronic device, online service, or software program that allows an one party to make electronic transactions with another party bartering digital currency units for goods and services.
+  https://en.wikipedia.org/wiki/Digital_wallet
+
+Google Pay — The whats, hows and wheres
+  https://medium.com/@rkakodker/google-pay-the-whats-hows-and-wheres-7aa764f6bd7a
+  TODO: Document
+
+How to use Google Pay
+  https://www.theverge.com/2018/5/16/17358034/google-pay-how-to-mobile-payments-android-iphone
+
+  
+  Google Pay
+  1 Google Pay is a digital wallet and online payment system
+  2  It automatically syncs your saved credit cards wherever your Google account is logged in for quick payments, and it will import loyalty cards, tickets, and offers from your Gmail account
+
+  WHAT DO I NEED TO SET UP GOOGLE PAY?
+  1 You need a debit / credit card or PayPal account, a Google account, and a supported Google Pay device (a non-rooted Android phone using KitKat 4.4 and up, a Wear OS watch, or a desktop / laptop computer). 
+
+  HOW DO I ADD PAYMENT ACCOUNTS TO GOOGLE PAY?
+    1 Google Play app
+    which Google Pay will use whenever you buy something like an app directly through Google.
+
+    2 Download the Google Pay app from the Play
+    Add a payment method by tapping on “Set it up.” This will take you to the “Choose a card” screen; 
+
+  WHERE CAN I USE GOOGLE PAY?
+     you can use Google Pay just about anywhere you see a credit card terminal with these above symbols. 
