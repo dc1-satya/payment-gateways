@@ -1,0 +1,6 @@
+Google Pay Passes
+
+With the Google Pay API for Passes platform, your business can showcase its loyalty cards, gift cards, offers, event tickets, boarding passes for flights, and transit passes to millions of Android users.
+
+Typical integration process
+https://developers.google.com/pay/passes/guides/overview/about/about-google-pay-api-for-passes
