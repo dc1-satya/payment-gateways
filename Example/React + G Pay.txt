@@ -1,0 +1,17 @@
+How to Integrate GooglePay in React
+  https://www.pluralsight.com/guides/how-to-integrate-googlepay-in-react
+
+Google Pay API allows you convenient access to the user's card details saved in their Google account. This way, your users do not have to enter the card details manually into the checkout form—you can programmatically fetch them using the Google Pay API.
+
+
+Web Payments, Payment Request API and Google Pay
+https://medium.com/dev-channel/web-payments-payment-request-api-and-google-pay-a1073e405235
+
+
+react-native-Payments
+https://github.com/naoufal/react-native-payments
+
+
+react-native-payments-alive
+https://developer.aliyun.com/mirror/npm/package/react-native-payments-alive
+
