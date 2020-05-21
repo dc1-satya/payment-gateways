@@ -1,0 +1,28 @@
+Ref
+https://www.howtogeek.com/352615/everything-you-can-do-with-google-pay/
+
+What is Google Pay?
+  Google Pay is Google’s contactless payment system—much like Apple Pay or Samsung Pay
+
+  Link your debit card, credit card, or PayPal account to Google Pay, and you’re just a tap away from paying for pretty much anything.
+
+
+
+How to Use Google Pay
+    You’ll need a compatible phone (unrooted, KitKat and above, with NFC) to get started, as well as a Google account.
+
+    Google Pay is only available for Android, IOS
+    https://apps.apple.com/us/app/google-pay-send/id575923525
+
+    The first thing you’ll need to do is add a payment method, and you can use credit or debit card, as well as your PayPal account. 
+
+    Adding a payment method is fast, but occasionally some banks will require additional activation. That generally takes a day or two.
+
+    When you’re at a place where Pay is accepted, just unlock your phone and touch it to the terminal. Bam—NFC will do its thing and you’ll pay for your stuff with the default payment method. 
+
+What Else You Can Do With Google Pay
+  To add a loyalty card, tap the “Cards” button at the bottom.
+  https://www.howtogeek.com/352615/everything-you-can-do-with-google-pay/
+
+  But it’s not just about loyalty cards—you can also add transit passes for certain areas. Right now, Hop Fastpass and Las Vegas Monorail users can add their transit pass to Google Pay,
+  
