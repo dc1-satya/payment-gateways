@@ -4,3 +4,22 @@ With the Google Pay API for Passes platform, your business can showcase its loya
 
 Typical integration process
 https://developers.google.com/pay/passes/guides/overview/about/about-google-pay-api-for-passes
+
+
+The following activities are involved in each stage of a successful integration:
+
+Technical discovery
+Review the developer documentation.
+Create a service account.
+Design the integration.
+Technical integration
+Develop the integration.
+Stage the deliverable.
+Validation and QA
+Perform QA tests.
+Review the UX design (only for boarding passes and event tickets).
+Rollout phase
+Start to launch in different areas.
+Begin crowdtesting.
+Launched
+Go live in all areas.
