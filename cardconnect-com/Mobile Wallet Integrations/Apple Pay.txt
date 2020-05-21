@@ -1,0 +1,4 @@
+https://developer.cardconnect.com/guides/home
+
+Apple Pay Developer Guide
+https://developer.cardconnect.com/guides/apple-pay
